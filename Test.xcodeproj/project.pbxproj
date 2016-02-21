@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		4F8425641C55EE9500BEB659 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F8425631C55EE9500BEB659 /* 1.png */; };
 		4F8425661C55EF3D00BEB659 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F8425651C55EF3D00BEB659 /* 2.png */; };
-		4F8425681C55F20600BEB659 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4F8425671C55F20600BEB659 /* 9.jpg */; };
 		4F84256B1C5607AA00BEB659 /* EncodeUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F84256A1C5607AA00BEB659 /* EncodeUtil.m */; };
 		4FDB13621C14254C00E47C4C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FDB13611C14254C00E47C4C /* main.m */; };
 		4FDB13651C14254C00E47C4C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FDB13641C14254C00E47C4C /* AppDelegate.m */; };
@@ -41,7 +40,6 @@
 /* Begin PBXFileReference section */
 		4F8425631C55EE9500BEB659 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 		4F8425651C55EF3D00BEB659 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
-		4F8425671C55F20600BEB659 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
 		4F8425691C5607AA00BEB659 /* EncodeUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EncodeUtil.h; sourceTree = "<group>"; };
 		4F84256A1C5607AA00BEB659 /* EncodeUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EncodeUtil.m; sourceTree = "<group>"; };
 		4FDB135D1C14254C00E47C4C /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -112,7 +110,6 @@
 			children = (
 				4F8425631C55EE9500BEB659 /* 1.png */,
 				4F8425651C55EF3D00BEB659 /* 2.png */,
-				4F8425671C55F20600BEB659 /* 9.jpg */,
 				4F8425691C5607AA00BEB659 /* EncodeUtil.h */,
 				4F84256A1C5607AA00BEB659 /* EncodeUtil.m */,
 				4FDB13631C14254C00E47C4C /* AppDelegate.h */,
@@ -260,7 +257,6 @@
 				4FDB13701C14254C00E47C4C /* LaunchScreen.storyboard in Resources */,
 				4F8425661C55EF3D00BEB659 /* 2.png in Resources */,
 				4F8425641C55EE9500BEB659 /* 1.png in Resources */,
-				4F8425681C55F20600BEB659 /* 9.jpg in Resources */,
 				4FDB136D1C14254C00E47C4C /* Assets.xcassets in Resources */,
 				4FDB136B1C14254C00E47C4C /* Main.storyboard in Resources */,
 			);
